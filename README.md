@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pamudi Punsala</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-<img align="right" alt="codinggirl" width="400" src="![image](https://github.com/pamudipunsala/pamudipunsala/assets/88242530/1f7b1ddc-22c6-4e4f-b689-0fd252b9fb45)
-">
+<img align="right" alt="codinggirl" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pamudipunsala&label=Profile%20views&color=0e75b6&style=flat" alt="pamudipunsala" /> </p>
 
