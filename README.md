@@ -1,4 +1,4 @@
-[# 👋 Hi, I'm Pamudi Punsala
+👋 Hi, I'm Pamudi Punsala
 
 ### 📱 Mobile Developer | Flutter & Dart | Android & iOS
 
