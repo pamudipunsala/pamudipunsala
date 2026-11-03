@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pamudi Punsala
+[# 👋 Hi, I'm Pamudi Punsala
 
 ### 📱 Mobile Developer | Flutter & Dart | Android & iOS
 
@@ -106,3 +106,4 @@ Stay tuned for project showcases, application screenshots, and demo videos!
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pamudipunsala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+](https://github.com/pamudipunsala)
